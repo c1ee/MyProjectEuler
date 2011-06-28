@@ -1,0 +1,60 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="27AAD5B3-EEE4-45B6-8CB1-C6C6289785E9/f:Program.cs" caret="134" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="27AAD5B3-EEE4-45B6-8CB1-C6C6289785E9/f:Program.cs" caret="112" fromTop="4" />
+      <File id="27AAD5B3-EEE4-45B6-8CB1-C6C6289785E9/f:Program.cs" caret="1489" fromTop="39" />
+      <File id="27AAD5B3-EEE4-45B6-8CB1-C6C6289785E9/f:Program.cs" caret="754" fromTop="21" />
+      <File id="27AAD5B3-EEE4-45B6-8CB1-C6C6289785E9/f:Program.cs" caret="299" fromTop="9" />
+      <File id="27AAD5B3-EEE4-45B6-8CB1-C6C6289785E9/f:Program.cs" caret="634" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="long" priority="4" />
+      <Item value="PRIME_SUSPECT" priority="3" />
+      <Item value="upperLimit" priority="0" />
+      <Item value="if" priority="4" />
+      <Item value="i" priority="4" />
+      <Item value="Prime`0" priority="0" />
+      <Item value="GreatestPrimeFactor" priority="2" />
+      <Item value="quotient" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="else" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="CompareTo`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MyMathFunctions.Prime">
+      <Item value="IsPrime`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

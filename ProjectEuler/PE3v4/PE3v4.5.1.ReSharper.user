@@ -1,0 +1,94 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9A220B1B-6E9A-4BDA-81B0-1F7635B69508/f:MyMathsClass.cs" caret="1063" fromTop="42" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="262" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9A220B1B-6E9A-4BDA-81B0-1F7635B69508/f:MyMathsClass.cs" caret="160" fromTop="20" />
+      <File id="9A220B1B-6E9A-4BDA-81B0-1F7635B69508/f:MyMathsClass.cs" caret="1353" fromTop="27" />
+      <File id="9A220B1B-6E9A-4BDA-81B0-1F7635B69508/f:MyMathsClass.cs" caret="132" fromTop="7" />
+      <File id="9A220B1B-6E9A-4BDA-81B0-1F7635B69508/f:MyMathsClass.cs" caret="827" fromTop="28" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="1470" fromTop="31" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="684" fromTop="17" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="903" fromTop="27" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="1050" fromTop="19" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="1456" fromTop="34" />
+      <File id="9A220B1B-6E9A-4BDA-81B0-1F7635B69508/f:MyMathsClass.cs" caret="1277" fromTop="28" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="471" fromTop="6" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="1394" fromTop="32" />
+      <File id="DB8DED5D-FBC0-4B9D-BB04-757300A1B19C/f:Program.cs" caret="262" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ref" priority="2" />
+      <Item value="long" priority="6" />
+      <Item value="lcd" priority="2" />
+      <Item value="i" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="if" priority="8" />
+      <Item value="PRIME_SUSPECT" priority="2" />
+      <Item value="using" priority="3" />
+      <Item value="MyMathFunctions" priority="3" />
+      <Item value="Prime`0" priority="0" />
+      <Item value="MyMathFunctions`0" priority="6" />
+      <Item value="MyMathsLibrary" priority="1" />
+      <Item value="MyMathsClass`0" priority="4" />
+      <Item value="THE_PRIME_SUSPECT" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="primeSuspect" priority="5" />
+      <Item value="do" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="isPrime" priority="3" />
+      <Item value="break" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="gcd" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="start" priority="0" />
+      <Item value="end" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MyMathFunctions.Prime">
+      <Item value="IsPrime`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MyMathFunctions.MyMathFunctions">
+      <Item value="IsPrime`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MyMathsLibrary.MyMathsClass">
+      <Item value="IsPrime`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

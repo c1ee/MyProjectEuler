@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE10", "PE10\PE10.csproj", "{898E733D-C69D-492D-BCCC-A00C46935BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMathFunctions", "..\..\lib\MyMathFunctions\MyMathFunctions.csproj", "{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Debug|x86.ActiveCfg = Debug|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Debug|x86.Build.0 = Debug|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Release|Any CPU.ActiveCfg = Release|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Release|x86.ActiveCfg = Release|x86
+		{898E733D-C69D-492D-BCCC-A00C46935BEC}.Release|x86.Build.0 = Release|x86
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{748E1E60-AA5B-42D1-9908-3995BBB4BE4B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

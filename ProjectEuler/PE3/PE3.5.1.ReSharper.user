@@ -1,0 +1,99 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="355" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="1787" fromTop="28" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="619" fromTop="8" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="467" fromTop="9" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="447" fromTop="9" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="2813" fromTop="30" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="2224" fromTop="13" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="920" fromTop="8" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="1162" fromTop="16" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="1323" fromTop="23" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="1190" fromTop="14" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="1647" fromTop="12" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="2775" fromTop="21" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="2702" fromTop="17" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="1947" fromTop="8" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="2456" fromTop="20" />
+      <File id="B6A85129-E8AA-4DED-9F00-EE185EA4D417/f:Program.cs" caret="353" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="bool" priority="0" />
+      <Item value="int" priority="6" />
+      <Item value="if" priority="6" />
+      <Item value="num" priority="2" />
+      <Item value="return" priority="8" />
+      <Item value="false" priority="1" />
+      <Item value="true" priority="1" />
+      <Item value="Math`0" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="root" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="static" priority="3" />
+      <Item value="void" priority="0" />
+      <Item value="primeNumber" priority="3" />
+      <Item value="while" priority="5" />
+      <Item value="do" priority="1" />
+      <Item value="isPrime`0" priority="0" />
+      <Item value="GetNextPrimeNumber`0" priority="2" />
+      <Item value="_PrimeNumber" priority="5" />
+      <Item value="long" priority="1" />
+      <Item value="largestPrimeFactor" priority="3" />
+      <Item value="else" priority="0" />
+      <Item value="prime" priority="4" />
+      <Item value="private" priority="1" />
+      <Item value="const" priority="0" />
+      <Item value="PRIME_SUSPECT" priority="1" />
+      <Item value="Console`0" priority="2" />
+      <Item value="DateTime`0" priority="4" />
+      <Item value="startTime" priority="1" />
+      <Item value="endTime" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Threading" priority="0" />
+      <Item value="Thread`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
